@@ -1,0 +1,7 @@
+name = "Ptychography"
+uuid = "874e030b-8e6a-4bd1-ab1e-a3c4f5dd183f"
+authors = ["Yong-an Lu <miroox@outlook.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4"
